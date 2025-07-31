@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@import 'lenis/dist/lenis.css';
+
+body{
+    height: 100vh;
+    width: 100%;
+     background-color: #ffff;
+    color:  #222;
+    overflow-x: hidden;
+   font-family: 'Inter', sans-serif;
+}
+
+h1, h2, h3, nav, .button {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+}
